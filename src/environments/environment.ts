@@ -3,8 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
-};
+  production: false,
+  appId: '3bee223cec4791cb6653ce91419d1bdf',
+  baseUrl: 'http://',
+}
 
 /*
  * In development mode, to ignore zone related error stack frames such as
